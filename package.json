@@ -5,7 +5,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mldangelo/dangelo-test.git"
+    "url": "https://github.com/benlcohn/dangelo-test.git"
   },
   "engines": {
     "node": ">=16.x"
